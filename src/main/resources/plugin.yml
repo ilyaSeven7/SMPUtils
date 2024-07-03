@@ -1,0 +1,4 @@
+name: SMPUtils
+version: '${project.version}'
+main: me.litedeforged.smputils.SMPUtils
+api-version: '1.20'
